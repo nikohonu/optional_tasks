@@ -1,17 +1,17 @@
-# optional_tasks
+# ultimate_todo_list
 
-optiona_tasks is a todo-like cli application focused on regular, equal and parallel completion of different tasks without using due dates.
+ultimate_todo_list is a todo-like cli application focused on regular, equal and parallel completion of different tasks with and without using due dates.
 
 ## Usage
 
-- `git clone https://codeberg.org/houjuunue/optional_tasks`
-- `cd optional_tasks`
+- `git clone https://github.com/nikohonu/ultimate_todo_list.git`
+- `cd ultimate_todo_list`
 
 ### Install
 
 - `pip install .`
-- `optional_tasks`
+- `ultimate_todo_list`
 
 ### Just run
 
-- `python -m optional_tasks`
+- `python -m ultimate_todo_list`
